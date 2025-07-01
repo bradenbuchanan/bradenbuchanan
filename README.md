@@ -7,8 +7,8 @@ At Roche Diabetes Care, I started as a UX researcher and grew into product leade
 I studied Computer Science at Purdue University, and I still love building on the side. Whether I'm coding personal projects, sketching out product ideas, or diving into quantitative UX methods, I stay energized by learning and creating. When I’m not working, I spend time running, hiking, snowboarding, and reading.
 
 You can find me elsewhere at:  
-[LinkedIn](https://www.linkedin.com/in/braden-buchanan/)  
-[Twitter/X](https://x.com/BradenBuchanan_)
-[Substack](https://bradenbuchanan.substack.com/)
+- [LinkedIn](https://www.linkedin.com/in/braden-buchanan/)
+- [Twitter/X](https://x.com/BradenBuchanan_)
+- [Substack](https://bradenbuchanan.substack.com/)
 
 Let’s connect!
