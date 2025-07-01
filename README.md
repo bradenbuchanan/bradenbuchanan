@@ -1,27 +1,14 @@
-# Hi there, I'm Braden Buchanan 👋
+Hi, I'm Braden Buchanan 👋 
 
-Welcome to my GitHub profile!
+I'm a Senior Product Manager at Roche, based in Seattle, WA, with a background that bridges UX research, product strategy, and computer science. I care deeply about building products that meet real human needs—especially in healthcare and I enjoy working at the intersection of technology, data, and design.
 
-## 🚀 About Me
-I'm a passionate developer who loves building projects, learning new technologies, and collaborating with others.  
-- 💻 Currently working on: [Your Project Name or Area]
-- 🌱 Currently learning: [Tech, Framework, etc.]
-- 🤝 Looking to collaborate on: [Open for collabs?]
-- 📫 How to reach me: [Your email or social links]
+At Roche Diabetes Care, I started as a UX researcher and grew into product leadership roles, now driving innovation for next-generation continuous glucose monitoring (CGM) solutions. My work involves identifying unmet needs through user research, translating insights into product strategy, and working cross-functionally with design, engineering, regulatory, and medical teams to bring ideas to life. I’ve led research across five countries, built personas, created standardized research processes, and developed go-to-market strategies grounded in both evidence and empathy.
 
-## 🔧 Technologies & Tools
-![Languages](https://img.shields.io/badge/languages-Python%2C%20JavaScript%2C%20Go-informational?style=flat)
-![Frameworks](https://img.shields.io/badge/frameworks-React%2C%20Node.js%2C%20Django-informational?style=flat)
-![Tools](https://img.shields.io/badge/tools-Git%2C%20Docker%2C%20VS%20Code-informational?style=flat)
+I studied Computer Science at Purdue University, and I still love building on the side. Whether I'm coding personal projects, sketching out product ideas, or diving into quantitative UX methods, I stay energized by learning and creating. When I’m not working, I spend time running, hiking, snowboarding, and reading.
 
-## 📈 GitHub Stats
-![Braden's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradenbuchanan&show_icons=true&hide_title=true&theme=default)
+You can find me elsewhere at:  
+[LinkedIn](https://www.linkedin.com/in/braden-buchanan/)  
+[Twitter/X](https://x.com/BradenBuchanan_)
+[Substack](https://bradenbuchanan.substack.com/)
 
-## 🏆 Top Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bradenbuchanan&repo=your-top-repo)](https://github.com/bradenbuchanan/your-top-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bradenbuchanan&repo=another-repo)](https://github.com/bradenbuchanan/another-repo)
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — Cory House
+Let’s connect!
