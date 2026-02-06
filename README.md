@@ -1,14 +1,13 @@
 Hi, I'm Braden Buchanan 👋
 
-I'm a Senior Product Manager at Roche in Seattle, WA. My background spans UX research, product strategy, and computer science, and I'm passionate about building products that solve real problems for real people, especially in healthcare.
+Hi, I'm a Senior Product Manager at Roche Diagnostics, leading next-generation continuous glucose monitoring.
 
-At Roche Diabetes Care, I started as a UX researcher and grew into product leadership. Now I'm driving innovation for next-generation continuous glucose monitoring (CGM) solutions. My work involves uncovering unmet user needs through research, translating those insights into product strategy, and collaborating across design, engineering, regulatory, and medical teams to bring ideas to life. I've led global research projects, built standardized research processes, and shaped the product strategy foundation for new digital and hardware products.
+I led the market research and launch strategy for Roche's first [AI-powered CGM](https://www.roche.com/media/releases/med-cor-2024-07-09) in Europe. I also wrote a book on [Jobs-to-be-Done](https://odi-jtbd-book-public.vercel.app/book/00-introduction) research and Outcome Driven Innovation.
 
-I studied Computer Science at Purdue University, and I still love building things on the side. Whether I'm coding personal projects, sketching product ideas, or exploring quantitative UX methods, I stay energized by learning and creating. Outside of work, I spend my time running, hiking, snowboarding, and reading.
+I wear many hats—Product Management, UX Research, and technical problem-solving—because solving the right problems requires understanding users, strategy, and implementation.
 
 You can find me at:  
 - [LinkedIn](https://www.linkedin.com/in/braden-buchanan/)
 - [Twitter/X](https://x.com/BradenBuchanan_)
-- [Substack](https://bradenbuchanan.substack.com/)
 
 Let's connect!
